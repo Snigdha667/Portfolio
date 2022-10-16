@@ -4,8 +4,6 @@ body{
   color: #40514E;
 font-family: 'Rokkitt', serif;
 }
-div{
-}
 h1{
   font-size: 5.6rem;
 font-family: 'Fleur De Leah', cursive;
@@ -40,7 +38,6 @@ color:  #11999E;
   bottom:50%;
 }
 .myimage{
-  height: 15%;
   width: 15%;
 }
 .middle-container{
@@ -61,13 +58,11 @@ color:  #11999E;
   margin-top: 12%;
 }
 .sk{
-height: 10%;
 width: 30%;
 float: left;
 margin-right: 30px
 }
 .sk1{
-  height: 10%;
   width: 30%;
   float: right;
   margin-left: 30px;
